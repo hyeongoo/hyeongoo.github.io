@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "Read Me"
 date:   2021-04-01 21:10:47 +0900
 categories: jekyll update
 ---
